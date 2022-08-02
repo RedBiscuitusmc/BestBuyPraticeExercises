@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuyCRUD", "BestBuyCRUD\BestBuyCRUD.csproj", "{73115284-BB60-43FA-9317-24180A2EA0EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73115284-BB60-43FA-9317-24180A2EA0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73115284-BB60-43FA-9317-24180A2EA0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73115284-BB60-43FA-9317-24180A2EA0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73115284-BB60-43FA-9317-24180A2EA0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
